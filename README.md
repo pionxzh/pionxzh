@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**pionxzh/pionxzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/sukkaw#gh-light-mode-only">
+  <img src="https://github-readme-stats-pionxzh.vercel.app/api?username=pionxzh&show_icons=true" align="right" alt="Pionxzh's GitHub stats" />
+</a>
 
-Here are some ideas to get you started:
+#### 🛠️ I’m currently working on
+  -  [wakaru](https://github.com/pionxzh/wakaru), a JavaScript Decompiler 🔪📦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 😄 I made userscripts
+
+- [ChatGPT Exporter](https://github.com/pionxzh/chatgpt-exporter)
+- [Get Twitter Icons Back 🐦](https://github.com/pionxzh/Get-Twitter-Icons-Back)
+- [Others](https://github.com/pionxzh/userscripts)
